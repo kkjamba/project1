@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f07e0af3-b852-49d8-8bf5-89bddc659955" name="Default Changelist" comment="lesson18" />
+    <list default="true" id="f07e0af3-b852-49d8-8bf5-89bddc659955" name="Default Changelist" comment="lesson18">
+      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +32,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1p9ihbmGFAw2cKsHFiMu7egkBUK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/Post" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,9 +64,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components" />
       <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Profile\MyPosts\Post" />
       <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Profile\MyPosts" />
-      <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Profile" />
@@ -71,7 +96,7 @@
       <updated>1614601829678</updated>
       <workItem from="1614601832785" duration="98000" />
       <workItem from="1614605597275" duration="4162000" />
-      <workItem from="1614610032179" duration="7857000" />
+      <workItem from="1614610032179" duration="15031000" />
     </task>
     <task id="LOCAL-00001" summary="lesson14">
       <created>1614609789757</created>
@@ -87,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614669897701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson18">
+      <created>1614669928548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614669928548</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
