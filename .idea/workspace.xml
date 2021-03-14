@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07e0af3-b852-49d8-8bf5-89bddc659955" name="Default Changelist" comment="lesson23">
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs/DialogItem" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +54,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Dialogs\DialogItem" />
+      <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Dialogs\Message" />
       <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components" />
       <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Profile\MyPosts\Post" />
       <recent name="C:\Users\user\Desktop\react-tut\projects\first_app\my-app-1\src\components\Profile\MyPosts" />
@@ -86,7 +89,7 @@
       <workItem from="1614601832785" duration="98000" />
       <workItem from="1614605597275" duration="4162000" />
       <workItem from="1614610032179" duration="26110000" />
-      <workItem from="1615215415187" duration="3717000" />
+      <workItem from="1615215415187" duration="7433000" />
     </task>
     <task id="LOCAL-00001" summary="lesson14">
       <created>1614609789757</created>
@@ -130,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615045024530</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson25">
+      <created>1615277840592</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615277840592</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,7 @@
     <MESSAGE value="lesson14" />
     <MESSAGE value="lesson18" />
     <MESSAGE value="lesson23" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson23" />
+    <MESSAGE value="lesson25" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson25" />
   </component>
 </project>
