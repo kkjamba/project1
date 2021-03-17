@@ -23,7 +23,7 @@ const App = (props) => {
                                state={props.state.profilePage}/>}/>
                     <Route path='/news' render={() => <News/>}/>
                     <Route path='/music' render={() => <Music/>}/>
-                    <Route path='/settings' crender={() => <Settings/>}/>
+                    <Route path='/settings' render={() => <Settings/>}/>
                 </div>
 
 

@@ -3,7 +3,18 @@
     grid-template-columns: 40px 80px;
 }
 
-.dialogImg img{
+.dialog:hover {
+    background: deepskyblue; /* Цвет фона под ссылкой */
+    color: #ffe; /* Цвет ссылки */
+}
+
+.dialog:active {
+    color: blue;
+}
+
+/* Цвет активной ссылки */
+
+.dialogImg img {
     /*margin-top: auto;*/
     /*margin-bottom: auto;*/
     margin: auto;

@@ -5,8 +5,8 @@ let state = {
             {id: 2, message: 'It\'s my first post', likesCount: 3},
             {id: 3, message: 'It\'s my second post', likesCount: 4},
         ],
-
     },
+
     dialogsPage: {
         messages: [
             {id: 1, message: 'Hi'},
