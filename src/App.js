@@ -8,6 +8,7 @@ import Music from "./components/Music/Music";
 import News from "./components/News/News";
 import Settings from "./components/Settings/Settings";
 
+
 const App = (props) => {
     return (
         <BrowserRouter>
@@ -20,7 +21,9 @@ const App = (props) => {
                                state={props.state.dialogsPage}/>}/>
                     <Route path='/profile'
                            render={() => <Profile
-                               state={props.state.profilePage}/>}/>
+                               profilePage={props.state.profilePage}
+                               updateNewPostText={props.updateNewPostText}
+                               addPost={props.addPost}/>}/>
                     <Route path='/news' render={() => <News/>}/>
                     <Route path='/music' render={() => <Music/>}/>
                     <Route path='/settings' render={() => <Settings/>}/>
